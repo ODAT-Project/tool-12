@@ -1,2 +1,13 @@
-# tool-12
+# Tool 12
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 This GUI-based application uses XGBoost survival model to generate nonlinear risk score and feed them back to Cox regression along with other linear predictor for advance survival analysis.
+
+## Description
+
+[Visit odat.info](https://odat.info)
+
+## Screenshot
+
+![Application Screenshot](screenshot.png)
