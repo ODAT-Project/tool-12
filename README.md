@@ -10,4 +10,4 @@ This GUI-based application uses XGBoost survival model to generate nonlinear ris
 
 ## Screenshot
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot](screen.png)
